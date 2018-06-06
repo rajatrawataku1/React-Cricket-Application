@@ -1,0 +1,13 @@
+.BallComponent{
+  position: absolute;
+  top:30%;
+  left: 10%;
+  width: 35%;
+  height: 40%;
+  background-color: #fcfcfc;
+  border-radius: 5px;
+}
+
+.center{
+  text-align: center;
+}
